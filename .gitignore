@@ -1,0 +1,14 @@
+# This is a file where we need to mention which files git has to ignore.
+
+bin/
+target/
+.metadata/
+.mvn/
+.settings/
+.classpath/
+.project/
+.springBeans/
+HELP.md/
+mvnw/
+mvnw.cmd/
+
